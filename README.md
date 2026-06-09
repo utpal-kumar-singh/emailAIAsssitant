@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="90" height="90" alt="Email AI Assistand Logo" src="https://github.com/user-attachments/assets/3f4bf893-a21d-4ab6-ada7-94f104485afd" /> 
+  <img width="90" height="90" alt="Email AI Assistand Logo" src="" /> 
   <h1 align="center"> Email AI Assistant <br>~ Google Gemini ~</h1>
   
 </p>
@@ -70,12 +70,12 @@ It leverages Google's <b>Gemini API</b> for natural language generation, offerin
 
 ### 1️⃣ Web App – Email Input Screen  
 <p align="center">
-  <img width="1511" height="742" alt="Screenshot 2025-08-29 151621" src="https://github.com/user-attachments/assets/c40a16ed-b030-4916-a2f3-a5d6df8728bb" />
+  <img width="1511" height="742" alt="Screenshot 2025-08-29 151621" src="" />
 </p>
 
 ### 2️⃣ Web App – Generated Email Reply  
 <p align="center">
-  <img width="1554" height="842" alt="Screenshot 2025-08-29 151912" src="https://github.com/user-attachments/assets/60e91764-5520-4c99-824c-de43a9570107" />
+  <img width="1554" height="842" alt="Screenshot 2025-08-29 151912" src="" />
 </p>
 
 ### 3️⃣ Chrome Extension – Description Card  
@@ -85,12 +85,12 @@ It leverages Google's <b>Gemini API</b> for natural language generation, offerin
 
 ### 4️⃣ Gmail Integration – AI Reply in Action  
 <p align="center">
-  <img width="1120" height="858" alt="Screenshot 2025-08-29 162745" src="https://github.com/user-attachments/assets/e4a00108-9a78-46b0-bb97-2ed698dd5d0c" />
+  <img width="1120" height="858" alt="Screenshot 2025-08-29 162745" src="" />
 </p>
 
 ### 5️⃣ Chrome Extension – Installed View  
 <p align="center">
-  <img width="535" height="323" alt="Screenshot 2025-08-29 162852" src="https://github.com/user-attachments/assets/be36daed-ad11-4abf-9fae-5028e6a46844" />
+  <img width="535" height="323" alt="Screenshot 2025-08-29 162852" src="" />
 </p>
 
 ---
